@@ -1,0 +1,16 @@
+.center {
+    width: 500px;
+    height: auto;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+h1 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-color: aquamarine;
+}
